@@ -1,2 +1,3 @@
-# ChromeExtensionNativeMessaging
- This repository provides an example of a Chrome extension communicating with a C# Windows application via the Native Messaging API. It includes the source code for both the extension and the native app, along with setup instructions and example communication.
+# Chrome Extension Native Messaging Host
+This repository provides an example of a Chrome extension native messaging host in C#.
+This is a Windows Console Application which communicates with any chrome extension which connects to it through the Native Messaging protocol.
