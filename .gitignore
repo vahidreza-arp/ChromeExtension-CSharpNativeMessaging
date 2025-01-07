@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChromeExtensionNativeMessagingHost/.vs/ChromeExtensionNativeMessagingHost
+/ChromeExtensionNativeMessagingHost/bin/Debug
+/ChromeExtensionNativeMessagingHost/obj
